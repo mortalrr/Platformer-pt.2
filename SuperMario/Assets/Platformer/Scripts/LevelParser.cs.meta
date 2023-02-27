@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9e6568559d6661b4eba05e67f1401a83
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rockPrefab: {fileID: 2955629362736187075, guid: 1321255979ed7e143a4d3100d6a8821a, type: 3}
+  - brickPrefab: {fileID: 2290268964803375329, guid: 655634abbc252b84fbeb52437777b100, type: 3}
+  - questionBoxPrefab: {fileID: 7238765736961340506, guid: a40cfc9823a52cb41bebd68de494ca98, type: 3}
+  - stonePrefab: {fileID: 7196905241499299952, guid: 3d7c7ca00ce89a84aa16c7fabe641e33, type: 3}
+  - goalPrefab: {fileID: 100175924044970137, guid: 4682c4bf0eb63a84eb660a3999f9f090, type: 3}
+  - goombaPrefab: {fileID: 4283531497074905920, guid: d4d6c2f78a4c5eb4bb8dea37e2656b7c, type: 3}
+  - environmentRoot: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
